@@ -16,12 +16,20 @@ Georgii Bychkov<sup>a</sup>, Konstantin Kravtsov<sup>a</sup>, Ivan Kruglov<sup>a
 ## Repository Contents  
 **VASP-compatible POSCAR files** for all predicted and experimentally confirmed "magic" Mo-S nanoclusters (32 structures), including:  
 - **7 experimentally synthesized clusters**  
-- **24 newly predicted stable configurations**  
+- **24 newly predicted magic configurations**  
 - **Metastable planar ring**: **Mo₁₀S₂₀**
+
+**Phonon band structeres files** for all magic nanoclusters. They are located in a yaml file, after calculation in phonopy.
+
+**MTPs** trained in the article.
+
+**Tables** with energies of maps of stability.
+
+
 ---
 
 ## References  
 For full methodology, results, and discussion, refer to the article:  
-**DOI:** [Insert DOI Link Here]  
+**DOI:** [https://doi.org/10.1039/D5NR02304A]
 
 *Note: This repository contains supporting data for the publication. All rights reserved to the authors.*  
